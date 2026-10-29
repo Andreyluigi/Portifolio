@@ -1,10 +1,10 @@
-# Portfólio — [SEU NOME]
+# Portfólio — Andrey Luigi
 
 Site de portfólio front-end com projetos carregados automaticamente do GitHub, formulário de
 contato, dashboard protegido para o dono e tema claro/escuro. Projeto CP3 (Stack e Harness
 Engineering) — FIAP.
 
-- **Site publicado:** [COLAR URL DA VERCEL]
+- **Site publicado:** https://portifolio-kappa-three-47.vercel.app/
 - **Vídeo de apresentação:** [COLAR LINK NÃO LISTADO DO YOUTUBE]
 
 ## Tecnologias
