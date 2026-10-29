@@ -23,8 +23,6 @@ Engineering) — FIAP.
 | Qualidade     | ESLint, Prettier, Husky, lint-staged, commitlint |
 | CI/CD         | GitHub Actions (verificação) e Vercel (deploy)   |
 
-As justificativas de cada escolha estão em [`docs/decisoes-da-stack.md`](docs/decisoes-da-stack.md).
-
 ## Como rodar
 
 Pré-requisitos: Node.js 22+ e npm.
@@ -106,10 +104,6 @@ O hook `commit-msg` (commitlint) bloqueia mensagens fora do padrão.
 - **Antes de cada commit** (Husky + lint-staged): ESLint e Prettier nos arquivos alterados
 - **Mensagem do commit** (commitlint): valida o padrão
 - **A cada push/PR** (GitHub Actions): lint, formatação, tipos, testes e build
-
-## Harness de IA
-
-Ver [`docs/harness-de-ia.md`](docs/harness-de-ia.md).
 
 ## Deploy
 
